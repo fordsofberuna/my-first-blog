@@ -25,7 +25,7 @@ SECRET_KEY = 'v(%odfr3)1fsu4c-j7y+vq7$@2dm4$ns(w*=(5(a16f3otfp+n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<fordsofberuna>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'fordsofberuna.pythonanywhere.com']
 
 
 # Application definition
